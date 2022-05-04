@@ -176,5 +176,12 @@ a {
   img {
      height: 25vh;
    }
+  .box {
+    margin: 0;
+    padding: 15px;
+  }
+  .bio {
+    font-size: 18px;
+  }
 }
 
