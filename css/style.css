@@ -115,6 +115,10 @@ img {
   width: 100%;
 }
 
+.caption {
+  font-family: 'Merriweather';
+  font-size: 13px;
+}
 .description {
   font-family: 'Merriweather', serif;
   font-size: 14px;
